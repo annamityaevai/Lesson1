@@ -7,6 +7,6 @@ int z = 0 - a;
 
 while(z <= y)
 {
-    Console.Write(z);
+    Console.Write(z );
     z = z + 1;
 }
